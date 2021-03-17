@@ -1,0 +1,2 @@
+File_Name=debug.log
+chapters=1
